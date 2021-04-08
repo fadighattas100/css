@@ -1,0 +1,42 @@
+@media (min-width: 1200px) and (max-width: 1331px) {
+}
+
+@media (min-width: 1200px) and (max-width: 1261px) {
+}
+
+/*md*/
+@media (min-width: 768px) and (max-width: 1200px) {
+}
+
+/*sm*/
+@media (min-width: 768px) and (max-width: 992px) {
+}
+
+/*xs*/
+@media (max-width: 767px) {
+}
+
+@media (max-width: 700px) {
+}
+
+@media (max-width: 668px) {
+}
+
+@media (max-width: 550px) {
+}
+
+@media (max-width: 500px) {
+}
+
+/*xs*/
+/* Extra Small Devices, Phones */
+@media(max-width: 480px) {
+}
+
+@media (max-width: 345px) {
+}
+
+/*xs*/
+/* Custom, iPhone Retina */
+@media(max-width: 320px) {
+}
